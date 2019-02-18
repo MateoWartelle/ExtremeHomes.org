@@ -399,7 +399,7 @@ a:active, a:focus, a:hover {
 }
 
 .probootstrap-navbar.scrolled {
-    background: #fff;
+    background: #000000;
     -webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .09);
     box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .09)
 }
